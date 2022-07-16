@@ -25,9 +25,9 @@ Tic Tac Toe Game Tree Size:
 We have 9 legal actions available that can be chosen by one player so if the computer goes first 9! = 362,880 and if the Computer goes second 8! = 40,320   
 
 ## Selected Utility Function:
-•	-10 if Min wins  
-•	0 if it’s a tie
-•	10 if Max wins
+-10 if Min wins
+0 if it’s a tie
+10 if Max wins
 
 
 
