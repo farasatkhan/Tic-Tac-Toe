@@ -26,7 +26,7 @@ We have 9 legal actions available that can be chosen by one player so if the com
 
 ## Selected Utility Function:
 •	-10 if Min wins  
-•	0 if it’s a tie 
+•	0 if it’s a tie
 •	10 if Max wins
 
 
